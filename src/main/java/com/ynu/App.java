@@ -12,6 +12,7 @@ public class App
 
         System.out.println( "何靓仔！" );
         System.out.println( "Hello World!" );
+        System.out.printf("123");
     }
 
 }
